@@ -107,7 +107,7 @@ h6 {
   .imgb2{display: grid; grid-template-columns: repeat(2, 280px);justify-content: space-evenly;}
   
   .banner-image {
-    background-image: url("/startbootstrap-landing-page-gh-pages/img/ki-law.jpg");
+    background-image: url("/img/ki-law.jpg");
     background-position: center;
     background-size: cover;
     height: 300px;
@@ -117,7 +117,7 @@ h6 {
   }
   
   .banner-image2 {
-      background-image: url("/startbootstrap-landing-page-gh-pages/img/WANGECHI-M-Karuri.jpg");
+      background-image: url("/img/WANGECHI-M-Karuri.jpg");
       background-position: center;
       background-size: cover;
       height: 300px;
